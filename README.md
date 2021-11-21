@@ -22,6 +22,8 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Ak7IrCL6ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/-Ak7IrCL6ac --Test 1
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPGHX-14mxA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/GPGHX-14mxA --Test 2 
+
+![alt text](https://github.com/Offspringjunky90/Team-Profile-Generator/blob/main/Assets/SampleHTML.PNG?raw=true)
